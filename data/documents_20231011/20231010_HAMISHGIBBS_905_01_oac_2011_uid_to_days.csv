@@ -1,0 +1,17 @@
+SPRGRP,n,p,dataset,SPRGRP_NAME
+1,688102,0.0628134730993708,Days,Rural Residents
+1,45305,0.0590426245916018,Devices,Rural Residents
+2,864712,0.0789353380032366,Days,Cosmopolitans
+2,81517,0.106235021053606,Devices,Cosmopolitans
+3,2383173,0.217548231405586,Days,Ethnicity Central
+3,177612,0.231468461294859,Devices,Ethnicity Central
+4,2960202,0.270222392458827,Days,Multicultural Metropolitans
+4,204072,0.265951804120017,Devices,Multicultural Metropolitans
+5,1523844,0.139104281199063,Days,Urbanites
+5,99921,0.13021958043963,Devices,Urbanites
+6,1191231,0.108741663842914,Days,Suburbanites
+6,72485,0.0944642896705055,Devices,Suburbanites
+7,399157,0.0364370943289302,Days,Constrained City Dwellers
+7,27282,0.0355545940648511,Devices,Constrained City Dwellers
+8,943226,0.086102497852974,Days,Hard-pressed living
+8,58994,0.0768824764409437,Devices,Hard-pressed living

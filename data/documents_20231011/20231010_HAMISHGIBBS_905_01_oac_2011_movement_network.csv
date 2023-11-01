@@ -1,0 +1,225 @@
+kcluster,n_movements,p_movements,visit_SPRGRP_NAME,home_SPRGRP_NAME
+3,6284,0.0043276716864628,Urbanites,Ethnicity Central
+3,9208,0.00634137506189521,Cosmopolitans,Ethnicity Central
+0,172292,0.222705944702248,Urbanites,Hard-pressed living
+3,7444,0.0164425801862933,Suburbanites,Rural Residents
+2,4467,0.00986687341377917,Suburbanites,Rural Residents
+0,113435,0.146626940527125,Constrained City Dwellers,Hard-pressed living
+0,77011,0.0995450021328025,Cosmopolitans,Hard-pressed living
+0,97403,0.0766467527643917,Hard-pressed living,Urbanites
+0,103299,0.0812863352649189,Constrained City Dwellers,Urbanites
+0,24452,0.0690820327950367,Rural Residents,Constrained City Dwellers
+0,48950,0.138294025246076,Hard-pressed living,Constrained City Dwellers
+0,47392,0.133892348201471,Multicultural Metropolitans,Constrained City Dwellers
+0,74811,0.211356778808665,Urbanites,Constrained City Dwellers
+3,3373,0.00952943303687464,Urbanites,Constrained City Dwellers
+2,1243,0.003511735921979,Urbanites,Constrained City Dwellers
+0,34911,0.0986309032761134,Ethnicity Central,Constrained City Dwellers
+3,3512,0.00992213721479506,Rural Residents,Constrained City Dwellers
+3,2211,0.00624653911785646,Hard-pressed living,Constrained City Dwellers
+0,32888,0.0929155036219191,Suburbanites,Constrained City Dwellers
+0,34180,0.0754980374486169,Cosmopolitans,Rural Residents
+0,120999,0.267267028474114,Urbanites,Rural Residents
+0,64277,0.141977394765499,Hard-pressed living,Rural Residents
+0,57965,0.128035217691898,Constrained City Dwellers,Rural Residents
+2,4305,0.00950904187291679,Cosmopolitans,Rural Residents
+0,180609,0.14212183782865,Ethnicity Central,Urbanites
+0,96048,0.0943213533063735,Rural Residents,Suburbanites
+0,89115,0.115190724248026,Rural Residents,Hard-pressed living
+0,48965,0.138336403394772,Cosmopolitans,Constrained City Dwellers
+0,21707,0.0479472176388861,Multicultural Metropolitans,Rural Residents
+0,8521,0.0188214972820265,Ethnicity Central,Rural Residents
+1,4456,0.00984257621038727,Hard-pressed living,Rural Residents
+0,100287,0.129631736101237,Suburbanites,Hard-pressed living
+3,6920,0.0152851497701705,Cosmopolitans,Rural Residents
+0,95721,0.0753231812301504,Rural Residents,Urbanites
+0,80757,0.104387110117239,Multicultural Metropolitans,Hard-pressed living
+0,54999,0.121483808122776,Suburbanites,Rural Residents
+0,23160,0.0397567218213934,Suburbanites,Cosmopolitans
+0,13275,0.0227880173652417,Rural Residents,Cosmopolitans
+0,140638,0.138109762684301,Cosmopolitans,Suburbanites
+0,246950,0.242510600939207,Urbanites,Suburbanites
+0,118121,0.115997548870379,Multicultural Metropolitans,Suburbanites
+2,6122,0.00601194532881079,Urbanites,Suburbanites
+3,13371,0.0131306306748659,Urbanites,Suburbanites
+2,6635,0.0146556313186534,Urbanites,Rural Residents
+0,214442,0.168745140871448,Multicultural Metropolitans,Urbanites
+0,145156,0.11422375126298,Suburbanites,Urbanites
+2,7756,0.00610322284160264,Rural Residents,Urbanites
+3,15441,0.0121505755411535,Rural Residents,Urbanites
+2,3850,0.00497653917247263,Rural Residents,Hard-pressed living
+2,3214,0.0041544407533317,Urbanites,Hard-pressed living
+0,106823,0.104902652051544,Hard-pressed living,Suburbanites
+2,4301,0.00422368129029977,Cosmopolitans,Suburbanites
+0,83551,0.0820490108081461,Ethnicity Central,Suburbanites
+0,989402,0.447984503951212,Ethnicity Central,Multicultural Metropolitans
+0,246731,0.111715626857826,Urbanites,Multicultural Metropolitans
+0,90119,0.0884989384330447,Constrained City Dwellers,Suburbanites
+2,7349,0.00721688765459498,Rural Residents,Suburbanites
+2,2103,0.00206519454859345,Multicultural Metropolitans,Suburbanites
+3,13658,0.0134124713003753,Rural Residents,Suburbanites
+3,6073,0.00596382619762625,Hard-pressed living,Suburbanites
+3,9165,0.00900024157767901,Cosmopolitans,Suburbanites
+3,5054,0.00496314467360499,Constrained City Dwellers,Suburbanites
+2,2576,0.00252969146798703,Constrained City Dwellers,Suburbanites
+2,1778,0.00174603704583887,Ethnicity Central,Suburbanites
+1,16939,0.0166344890435684,Urbanites,Suburbanites
+3,4185,0.00924398147227799,Multicultural Metropolitans,Rural Residents
+2,2958,0.00232766028435542,Multicultural Metropolitans,Urbanites
+3,11309,0.0249797339235345,Urbanites,Rural Residents
+3,3914,0.00864538673416872,Ethnicity Central,Rural Residents
+0,468884,0.322911523080112,Multicultural Metropolitans,Ethnicity Central
+3,6066,0.00595695203602846,Multicultural Metropolitans,Suburbanites
+1,8173,0.00802607467696351,Hard-pressed living,Suburbanites
+0,43873,0.0567105722373745,Ethnicity Central,Hard-pressed living
+1,12337,0.0159468996807259,Urbanites,Hard-pressed living
+3,9356,0.0120936364928971,Rural Residents,Hard-pressed living
+1,6549,0.00643126918627603,Rural Residents,Suburbanites
+1,1859,0.00525206522844647,Rural Residents,Constrained City Dwellers
+1,3502,0.00989388511566409,Hard-pressed living,Constrained City Dwellers
+3,4160,0.00918876055547824,Constrained City Dwellers,Rural Residents
+2,1224,0.00345805693363017,Rural Residents,Constrained City Dwellers
+1,4886,0.0138039756353897,Urbanites,Constrained City Dwellers
+3,4250,0.00549358220337888,Constrained City Dwellers,Hard-pressed living
+3,8300,0.0107286428913046,Urbanites,Hard-pressed living
+3,5424,0.00701110349908871,Suburbanites,Hard-pressed living
+2,4619,0.00363470684700394,Suburbanites,Urbanites
+3,1963,0.00554588705940851,Multicultural Metropolitans,Constrained City Dwellers
+3,10248,0.00806418613728002,Suburbanites,Urbanites
+0,279777,0.220157475110245,Cosmopolitans,Urbanites
+1,9275,0.00729852912014756,Suburbanites,Urbanites
+3,13486,0.0106121793762059,Cosmopolitans,Urbanites
+2,4909,0.00386290883566624,Cosmopolitans,Urbanites
+1,7360,0.00579160909156723,Hard-pressed living,Urbanites
+1,4989,0.00489931317305407,Constrained City Dwellers,Suburbanites
+1,5964,0.0058567856813178,Multicultural Metropolitans,Suburbanites
+0,86021,0.0389488549794595,Suburbanites,Multicultural Metropolitans
+2,4125,0.00186773028435231,Urbanites,Multicultural Metropolitans
+2,2166,0.0037181804604982,Multicultural Metropolitans,Cosmopolitans
+3,3362,0.00577124778771696,Multicultural Metropolitans,Cosmopolitans
+0,52404,0.0237276455324118,Constrained City Dwellers,Multicultural Metropolitans
+2,1674,0.00216382508434264,Suburbanites,Hard-pressed living
+2,2437,0.00538293496963954,Ethnicity Central,Rural Residents
+2,2416,0.00533654939952775,Constrained City Dwellers,Rural Residents
+3,5360,0.0118393645618662,Hard-pressed living,Rural Residents
+3,2106,0.00594989207698132,Suburbanites,Constrained City Dwellers
+2,781,0.0022064889421284,Suburbanites,Constrained City Dwellers
+3,2528,0.00714213066030806,Cosmopolitans,Constrained City Dwellers
+2,1031,0.00291279142040254,Cosmopolitans,Constrained City Dwellers
+0,615106,0.278509601039228,Cosmopolitans,Multicultural Metropolitans
+2,3682,0.00166714737139036,Cosmopolitans,Multicultural Metropolitans
+3,11040,0.00499872541557565,Cosmopolitans,Multicultural Metropolitans
+0,77864,0.133662236092443,Urbanites,Cosmopolitans
+1,4177,0.0071702861419672,Urbanites,Cosmopolitans
+1,468,0.000803374171520386,Rural Residents,Cosmopolitans
+0,26562,0.0120268246819312,Rural Residents,Multicultural Metropolitans
+3,9345,0.00423125806236906,Rural Residents,Multicultural Metropolitans
+2,2568,0.00440825827449648,Suburbanites,Cosmopolitans
+2,3692,0.00633772957532749,Urbanites,Cosmopolitans
+2,3971,0.00179800168706983,Rural Residents,Multicultural Metropolitans
+2,1918,0.000868437984336422,Constrained City Dwellers,Multicultural Metropolitans
+3,10589,0.0047945202378198,Urbanites,Multicultural Metropolitans
+3,5863,0.00265466731082609,Suburbanites,Multicultural Metropolitans
+1,2778,0.00613614827478812,Constrained City Dwellers,Rural Residents
+2,736,0.00207935449603906,Hard-pressed living,Constrained City Dwellers
+0,695754,0.479152591747811,Cosmopolitans,Ethnicity Central
+1,29431,0.0202685718339094,Cosmopolitans,Ethnicity Central
+0,256464,0.440249045993171,Ethnicity Central,Cosmopolitans
+3,2994,0.00513953476395734,Suburbanites,Cosmopolitans
+1,5404,0.00530685275349453,Cosmopolitans,Suburbanites
+1,7295,0.00942957227615268,Rural Residents,Hard-pressed living
+3,3120,0.00403293564106873,Ethnicity Central,Hard-pressed living
+1,7103,0.00918139162131768,Suburbanites,Hard-pressed living
+3,5177,0.0066918294275041,Cosmopolitans,Hard-pressed living
+1,7321,0.00946318007316159,Constrained City Dwellers,Hard-pressed living
+1,2783,0.00359732688753022,Cosmopolitans,Hard-pressed living
+2,2147,0.00210840356435099,Hard-pressed living,Suburbanites
+1,1062,0.00234578454565334,Cosmopolitans,Rural Residents
+3,6211,0.00488745707441903,Constrained City Dwellers,Urbanites
+3,6824,0.00536982886424657,Hard-pressed living,Urbanites
+1,6553,0.0051565780403587,Rural Residents,Urbanites
+1,7970,0.01760442827576,Urbanites,Rural Residents
+0,44558,0.0201751093357989,Hard-pressed living,Multicultural Metropolitans
+2,2760,0.0060963892146923,Multicultural Metropolitans,Rural Residents
+2,1927,0.000872513032229554,Hard-pressed living,Multicultural Metropolitans
+0,113383,0.19463455916559,Multicultural Metropolitans,Cosmopolitans
+3,6156,0.0105674602561528,Ethnicity Central,Cosmopolitans
+3,5424,0.00931090065454396,Urbanites,Cosmopolitans
+2,1294,0.00222129525202431,Hard-pressed living,Cosmopolitans
+1,10060,0.00791624829635412,Multicultural Metropolitans,Urbanites
+1,9587,0.0043408315723844,Urbanites,Multicultural Metropolitans
+1,1069,0.00236124640235727,Multicultural Metropolitans,Rural Residents
+1,19648,0.0135312051711682,Multicultural Metropolitans,Ethnicity Central
+1,1018,0.0017475104842046,Constrained City Dwellers,Cosmopolitans
+1,5983,0.00470804309712591,Constrained City Dwellers,Urbanites
+3,8839,0.00695543923374494,Ethnicity Central,Urbanites
+2,3018,0.00237487448890624,Hard-pressed living,Urbanites
+3,8499,0.00668789207462362,Multicultural Metropolitans,Urbanites
+2,2748,0.00606988317462842,Hard-pressed living,Rural Residents
+2,1199,0.00205821716165159,Constrained City Dwellers,Cosmopolitans
+2,3324,0.00570601655156787,Rural Residents,Cosmopolitans
+0,17264,0.0296355805494187,Constrained City Dwellers,Cosmopolitans
+2,2150,0.00277910629112108,Cosmopolitans,Hard-pressed living
+2,1470,0.00190013313858046,Constrained City Dwellers,Hard-pressed living
+2,1192,0.00154078823210062,Multicultural Metropolitans,Hard-pressed living
+2,1198,0.00154854387756421,Ethnicity Central,Hard-pressed living
+1,12021,0.00945936588175675,Cosmopolitans,Urbanites
+2,2918,0.0022961841479882,Constrained City Dwellers,Urbanites
+0,12761,0.0219056790657514,Hard-pressed living,Cosmopolitans
+3,1713,0.00294055546114192,Constrained City Dwellers,Cosmopolitans
+3,4627,0.00794276130689065,Rural Residents,Cosmopolitans
+2,2086,0.00358085154228958,Ethnicity Central,Cosmopolitans
+3,1763,0.00302638603502231,Hard-pressed living,Cosmopolitans
+0,10125,0.00697289558011392,Rural Residents,Ethnicity Central
+1,2001,0.00565324503610618,Cosmopolitans,Constrained City Dwellers
+3,1629,0.00460226694843427,Ethnicity Central,Constrained City Dwellers
+1,3402,0.00751446235810986,Suburbanites,Rural Residents
+0,112121,0.0772156074407855,Urbanites,Ethnicity Central
+0,31498,0.0216920755538201,Suburbanites,Ethnicity Central
+2,1639,0.00074211149964932,Ethnicity Central,Multicultural Metropolitans
+2,1671,0.00115078602611065,Multicultural Metropolitans,Ethnicity Central
+1,921,0.00158099917087666,Suburbanites,Cosmopolitans
+1,21096,0.00955191226150216,Cosmopolitans,Multicultural Metropolitans
+3,5666,0.00556414280186899,Ethnicity Central,Suburbanites
+1,5988,0.0102790695279147,Multicultural Metropolitans,Cosmopolitans
+2,1948,0.00134155067556167,Suburbanites,Ethnicity Central
+3,10447,0.00473022503772815,Ethnicity Central,Multicultural Metropolitans
+2,2254,0.00102057310568003,Suburbanites,Multicultural Metropolitans
+2,1358,0.000935228859041452,Constrained City Dwellers,Ethnicity Central
+3,4121,0.00532683582591161,Multicultural Metropolitans,Hard-pressed living
+3,5367,0.00369615116824409,Multicultural Metropolitans,Ethnicity Central
+1,2391,0.00675507690221383,Multicultural Metropolitans,Constrained City Dwellers
+3,3406,0.00234564763909808,Suburbanites,Ethnicity Central
+1,2361,0.00106902089729838,Constrained City Dwellers,Multicultural Metropolitans
+2,738,0.00208500491586525,Multicultural Metropolitans,Constrained City Dwellers
+3,3809,0.00172465082499345,Constrained City Dwellers,Multicultural Metropolitans
+2,2839,0.0019551654866117,Rural Residents,Ethnicity Central
+3,5582,0.00384421759290824,Rural Residents,Ethnicity Central
+0,16883,0.0116270020818828,Constrained City Dwellers,Ethnicity Central
+1,12735,0.0218610471673336,Ethnicity Central,Cosmopolitans
+2,3034,0.00208945829037685,Urbanites,Ethnicity Central
+1,878,0.000604661957465681,Suburbanites,Ethnicity Central
+1,165,0.000113632372416671,Rural Residents,Ethnicity Central
+1,5150,0.0040525525572787,Ethnicity Central,Urbanites
+1,3366,0.0023181003973001,Urbanites,Ethnicity Central
+0,12900,0.00888398547984885,Hard-pressed living,Ethnicity Central
+2,2269,0.00178548383543017,Ethnicity Central,Urbanites
+2,1425,0.00098137048905307,Hard-pressed living,Ethnicity Central
+1,2485,0.00112516600160376,Hard-pressed living,Multicultural Metropolitans
+1,3229,0.00146203662743603,Suburbanites,Multicultural Metropolitans
+1,4340,0.00560991688533278,Multicultural Metropolitans,Hard-pressed living
+3,4104,0.00185822183926834,Hard-pressed living,Multicultural Metropolitans
+1,33229,0.0150455296045438,Ethnicity Central,Multicultural Metropolitans
+2,2696,0.00185668409718391,Cosmopolitans,Ethnicity Central
+1,2103,0.00594141644724203,Suburbanites,Constrained City Dwellers
+1,2609,0.00256209822980519,Ethnicity Central,Suburbanites
+3,2158,0.00148617369500107,Hard-pressed living,Ethnicity Central
+3,2409,0.0016590326372834,Constrained City Dwellers,Ethnicity Central
+1,437,0.000300953616642942,Hard-pressed living,Ethnicity Central
+2,548,0.00154821503237691,Ethnicity Central,Constrained City Dwellers
+1,1222,0.00345240651380398,Ethnicity Central,Constrained City Dwellers
+1,1185,0.00153173997905976,Ethnicity Central,Hard-pressed living
+1,1079,0.000488552964076642,Rural Residents,Multicultural Metropolitans
+1,576,0.000396680281890925,Constrained City Dwellers,Ethnicity Central
+1,697,0.00119647819989254,Hard-pressed living,Cosmopolitans
+1,282,0.00062289194150117,Ethnicity Central,Rural Residents

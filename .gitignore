@@ -1,4 +1,8 @@
 .DS_Store
 output
 data/OutputAreaClassification
+.Rhistory
+.Rproj.user
+.snakemake
+hbp2.Rproj
 

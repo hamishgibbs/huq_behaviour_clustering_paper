@@ -6,9 +6,9 @@ Source code and supporting data for the manuscript: *Clustering reveals key beha
 
 Code for creating main text and supporting figures is located in the `src` directory.
 
-Aggregated data supporting the manucript results is located in the `data` folder. 
+Aggregated data supporting the manucript results are located in the `data` folder. 
 
-The only data not tracked in this repository is the 2011 Output Area Classification which can be downoaded from [this](https://data.cdrc.ac.uk/dataset/output-area-classification-2011) link.
+The only data not tracked in this repository is the 2011 Output Area Classification which can be downoaded from [here](https://data.cdrc.ac.uk/dataset/output-area-classification-2011).
 
 Workflow is managed with [Snakemake](https://snakemake.readthedocs.io/en/stable/). To run the workflow use:
 

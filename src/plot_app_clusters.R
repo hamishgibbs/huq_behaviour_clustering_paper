@@ -151,7 +151,7 @@ p2a <- ggplot(visits_per_hour) +
        color = NULL) + 
   theme(legend.position = "none")
 
-weekdays_vec <- c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+weekdays_vec <- c("Sun", "Mon", "Tues", "Weds", "Thurs", "Fri", "Sat")
 visits_per_wday[, weekday := factor(weekdays_vec[wday],
                                     levels = c(
                                       weekdays_vec[2:7], weekdays_vec[1]

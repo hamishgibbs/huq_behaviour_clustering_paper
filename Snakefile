@@ -47,16 +47,3 @@ rule figure_3:
     "output/network_metrics_table.csv"
   shell:
       "Rscript {input} {output}"
-      
-rule figure_4:
-  input:
-    "src/figure_4.R",
-    "data/documents_20231011/20231010_HAMISHGIBBS_905_01_long_tail_perc_of_days_per_uid.csv",
-    "data/documents_20231011/20231010_HAMISHGIBBS_905_01_n_cluster_days_per_time_wt.csv"
-  output:
-    "output/time_series_long_tail_wt.png",
-    "output/time_series_long_tail.png",
-    "output/overall_time_series_distribution.png",
-    "output/long_tailed_days_per_device_days.png"
-  shell:
-      "Rscript {input} {output}"

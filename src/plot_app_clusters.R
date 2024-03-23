@@ -126,7 +126,7 @@ p1d <- ggplot(distance_distribution) +
   theme_classic() + 
   guides(linetype="none") + 
   labs(title="d",
-       x = "Total distance travelled daily",
+       x = "Total daily distance (km)",
        y = NULL,
        color="App cluster")
 

@@ -64,7 +64,7 @@ cluster_linetype_pal <- c(
 p1a <- ggplot(cluster_per_app_cluster, aes(x="", y=p_dev_days, fill=cluster_label)) +
   geom_bar(stat="identity", width=1, color="white") +
   coord_polar("y", start=0) + 
-  scale_fill_manual(values=cluster_color_pal) + 
+  scale_fill_manual(values=cluster_color_pal[2:5]) + 
   theme_void() + 
   facet_wrap(~as.character(app_cluster), nrow=4, ncol=2) + 
   theme(legend.position = "bottom") + 
@@ -147,7 +147,7 @@ p2a <- ggplot(visits_per_hour) +
   theme_classic() + 
   labs(title = "a",
        x = "Hour of the day",
-       y = "Proportion of travel days",
+       y = "Proportion of stop points",
        color = NULL) + 
   theme(legend.position = "none")
 

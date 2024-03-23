@@ -56,7 +56,7 @@ network_metrics_long[, h3_resolution := factor(h3_resolution, levels=c(6:3))]
 
 n_edges <- subset(network_metrics_long, variable == "n_edges" & label == "Overall")
 
-h3_resolution_mean_area_km2 <- c(18.23, 127.78, 896.58, 6315.47)
+h3_resolution_mean_area_km2 <- c(36.13, 252.9, 1770.35, 12393.43)
 names(h3_resolution_mean_area_km2) <- c(6, 5, 4, 3)
 
 p_n_edges <- ggplot(n_edges) + 

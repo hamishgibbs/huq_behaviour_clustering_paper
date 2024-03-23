@@ -67,9 +67,10 @@ p1a <- ggplot(cluster_per_app_cluster, aes(x="", y=p_dev_days, fill=cluster_labe
   scale_fill_manual(values=cluster_color_pal) + 
   theme_void() + 
   facet_wrap(~as.character(app_cluster), nrow=4, ncol=2) + 
-  theme(legend.position = "none") + 
-  labs(title="a")
-
+  theme(legend.position = "bottom") + 
+  labs(title="a",
+       fill=NULL) + 
+  guides(fill = guide_legend(ncol = 2))
 
 scale_factor <- max(app_cluster_summary$n_apps) / max(app_cluster_summary$n_dev_days)
 

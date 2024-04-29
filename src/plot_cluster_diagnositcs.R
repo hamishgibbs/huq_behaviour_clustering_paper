@@ -101,7 +101,9 @@ overall_total_distance_distribution[, cluster := NA]
 
 overall_total_distance_distribution <- overall_total_distance_distribution[order(bin_numeric)]
 
-p_cluster_distance_distribution <- ggplot(data = rbind(cluster_total_distance_distribution, overall_total_distance_distribution)) + 
+df_distance <- rbind(cluster_total_distance_distribution, overall_total_distance_distribution)
+
+p_cluster_distance_distribution <- ggplot(data = df_distance) + 
   geom_path(aes(x = bin_numeric, y = p_uid_date, color=cluster_label,
                 linetype=cluster_label), size=0.3) + 
   geom_point(aes(x = bin_numeric, y = p_uid_date, color=cluster_label), size=0.2) + 
@@ -114,7 +116,7 @@ p_cluster_distance_distribution <- ggplot(data = rbind(cluster_total_distance_di
   scale_color_manual(values=cluster_color_pal) + 
   scale_linetype_manual(values=cluster_linetype_pal) + 
   theme_classic() + 
-  labs(x = "Total Distance Travelled Daily (km)",
+  labs(x = "Total daily distance (km)",
        y = "Proportion of travel days",
        title="b") + 
   theme(legend.position = "none",
@@ -144,7 +146,7 @@ p_cluster_min_dist_from_home_distribution <- ggplot(data = cluster_min_dist_from
   scale_color_manual(values=cluster_color_pal) + 
   scale_linetype_manual(values=cluster_linetype_pal) + 
   theme_classic() + 
-  labs(x = "Total Distance Travelled Daily (km)",
+  labs(x = "Minimum daily distance from home (km)",
        y = "Proportion of travel days",
        title="c") + 
   theme(legend.position = "none",

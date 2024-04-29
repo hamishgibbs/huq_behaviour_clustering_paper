@@ -1,7 +1,6 @@
 .DS_Store
 output
 data/OutputAreaClassification
-data/documents_*
 .Rhistory
 .Rproj.user
 .snakemake
